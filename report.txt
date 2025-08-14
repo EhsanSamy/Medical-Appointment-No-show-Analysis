@@ -1,0 +1,33 @@
+Medical Appointment No-show Analysis Report
+==================================================
+Total Appointments: 110,519
+Total No-shows: 22,316 
+No-show rate: 20.19% (about 1 in every 5 appointments results in a no-show)
+
+Gender Distribution:
+ - F: 71,832 (65.00%)
+ - M: 38,687 (35.00%)
+
+Age statistics:
+ - Mean: 37.08 years
+ - Youngest: 0 years, Oldest: 100 years
+ - 25% are under 18 years, 50% under 37 years, 75% under 55 years
+
+Chronic Conditions:
+ - Hypertension: 21,800 patients
+ - Diabetes: 7,943 patients
+ - Alcoholism: 3,360 patients
+ - Handicap: 2,455 patients
+
+Top 5 Neighborhoods by Appointments:
+ - JARDIM CAMBURI: 7,717
+ - MARIA ORTIZ: 5,804
+ - RESISTÊNCIA: 4,431
+ - JARDIM DA PENHA: 3,877
+ - ITARARÉ: 3,514
+
+Impact of SMS Received on No-show Rate (%):
+No-show              No        Yes
+SMS_received                      
+0             83.299128  16.700872
+1             72.424678  27.575322
