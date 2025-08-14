@@ -55,10 +55,7 @@ The current version includes visualizations for:
 ## 🚧 Future Work
 
 > I'm planning to take this project further with the following:
-
-- 🔁 Convert all charts to **interactive visualizations** using `Plotly`
-- 📊 Build an interactive dashboard using **Dash**
-- 📄 Add a detailed **report** with key findings and insights
+> 
 - 🤖 Possibly develop a **predictive model** for no-show classification
 
 ---
